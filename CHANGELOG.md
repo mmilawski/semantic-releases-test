@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/mmilawski/semantic-releases-test/compare/v1.3.0...v1.3.1) (2025-03-10)
+
+### Bug Fixes
+
+* disable pr notification for semantic release ([a50dea1](https://github.com/mmilawski/semantic-releases-test/commit/a50dea13bbfa8b26c8d0a16476c66b4893439f10))
+
 ## [1.3.0](https://github.com/mmilawski/semantic-releases-test/compare/v1.2.0...v1.3.0) (2025-03-10)
 
 ### Features
