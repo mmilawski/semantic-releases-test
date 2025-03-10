@@ -1,4 +1,6 @@
 {
+  "name" : "semantic-release-test",
+  "version" : "0.0.0-development",
   "scripts": {
     "release" : "semantic-release",
     "next-version" : "semantic-release --dry-run"
