@@ -1,13 +1,16 @@
 {
-  "name" : "semantic-release-test",
-  "version" : "0.0.0-development",
+  "name": "semantic-release-test",
+  "version": "0.0.0-development",
   "scripts": {
-    "release" : "semantic-release",
-    "next-version" : "semantic-release --dry-run"
+    "release": "semantic-release",
+    "next-version": "semantic-release --dry-run"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "semantic-release": "^24.2.3"
+  },
+  "dependencies": {
+    "@semantic-release/github": "^11.0.1"
   }
 }
