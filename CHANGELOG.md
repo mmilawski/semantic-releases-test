@@ -1,3 +1,13 @@
+## [1.5.0](https://github.com/mmilawski/semantic-releases-test/compare/v1.4.0...v1.5.0) (2025-03-11)
+
+### Features
+
+* **P#123456:** set release branch for semantic release ([b8958d8](https://github.com/mmilawski/semantic-releases-test/commit/b8958d8bcbfd104774d591671384502acdf6b603)), closes [P#123456](https://github.com/mmilawski/P/issues/123456)
+
+### Bug Fixes
+
+* test 3 ([b3939c0](https://github.com/mmilawski/semantic-releases-test/commit/b3939c0157537c847374c3a247df0da8430eebcf))
+
 ## [1.4.0](https://github.com/mmilawski/semantic-releases-test/compare/v1.3.1...v1.4.0) (2025-03-11)
 
 ### Features
