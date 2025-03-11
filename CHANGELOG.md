@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/mmilawski/semantic-releases-test/compare/v1.3.1...v1.4.0) (2025-03-11)
+
+### Features
+
+* das ist ein neues feature ([b6a9d30](https://github.com/mmilawski/semantic-releases-test/commit/b6a9d309bb414c86abbc20c0e15513a0fe72e2e1))
+
 ## [1.3.1](https://github.com/mmilawski/semantic-releases-test/compare/v1.3.0...v1.3.1) (2025-03-10)
 
 ### Bug Fixes
