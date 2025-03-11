@@ -1,6 +1,6 @@
 {
   "repositoryUrl": "https://github.com/mmilawski/semantic-releases-test.git",
-  "branches": ["master"],
+  "branches": ["release"],
   "plugins": [
     [
       "@semantic-release/release-notes-generator",
