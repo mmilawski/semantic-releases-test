@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/mmilawski/semantic-releases-test/compare/v1.5.0...v1.5.1) (2025-10-01)
+
+### Bug Fixes
+
+* modify files ([2c35b9a](https://github.com/mmilawski/semantic-releases-test/commit/2c35b9ae275918db19012a23fa61737b33ff609e))
+* modify files ([#9](https://github.com/mmilawski/semantic-releases-test/issues/9)) ([aa2f498](https://github.com/mmilawski/semantic-releases-test/commit/aa2f49866dd8c9bfd7f79f796482681477f16e35))
+* Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ([f289b1b](https://github.com/mmilawski/semantic-releases-test/commit/f289b1b64debc959866e67af3706afc107626407)), closes [Fix/p#123](https://github.com/Fix/p/issues/123)
+
 ## [1.5.0](https://github.com/mmilawski/semantic-releases-test/compare/v1.4.0...v1.5.0) (2025-03-11)
 
 ### Features
